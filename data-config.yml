@@ -1,0 +1,16 @@
+Columns:
+  - Author
+  - Title
+  - Year
+  - Series
+  - Source
+  - Added
+  - Lot
+  - When_Read
+  - Score
+Formats:
+  Year: datetime (YYYY)
+  Added: datetime (MM YY)
+  When_Read: datetime (MM YY)
+  Score: int (0 .. 10)
+
